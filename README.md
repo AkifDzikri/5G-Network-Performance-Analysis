@@ -16,3 +16,6 @@ This project analyzes 5G network performance (Download Speed, Upload Speed, Late
 ## Project Files
 - `notebooks/`: Final analysis notebook.
 - `presentation/`: Project slides.
+
+
+https://youtu.be/LQWTVRfmLHY?si=MoA-KEUKlb0QJOrn
