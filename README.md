@@ -2,7 +2,7 @@
 new
 # 5G Network Performance Analysis
 
-**Presentation Video:** [PASTE YOUR YOUTUBE LINK HERE]
+**Presentation Video:** [[PASTE YOUR YOUTUBE LINK HERE](https://youtu.be/LQWTVRfmLHY?si=MoA-KEUKlb0QJOrn)]
 
 ## Project Overview
 This project analyzes 5G network performance (Download Speed, Upload Speed, Latency, Congestion) using 50,000 records.
@@ -17,5 +17,3 @@ This project analyzes 5G network performance (Download Speed, Upload Speed, Late
 - `notebooks/`: Final analysis notebook.
 - `presentation/`: Project slides.
 
-
-https://youtu.be/LQWTVRfmLHY?si=MoA-KEUKlb0QJOrn
